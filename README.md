@@ -1,3 +1,1 @@
-![Oleg's GitHub stats](https://github-readme-stats.vercel.app/api?username=chulanovskyi-bs&show_icons=true&theme=tokyonight)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chulanovskyi-bs&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/chulanovskyi-bs/github-readme-stats)
+![JS](https://user-images.githubusercontent.com/13966263/136046837-04222580-8ba3-4791-9539-ee598f8a13c0.jpg)
